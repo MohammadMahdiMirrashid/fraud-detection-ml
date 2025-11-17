@@ -1,0 +1,40 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+jupyter
+notebook
+pyyaml
+
+# Feature engineering & time series
+tsfresh
+pytz
+
+# Generative models
+sdv
+ctgan
+
+# Gradient boosting frameworks (pick your preferred)
+lightgbm
+xgboost
+catboost
+
+# Deep learning (for autoencoder)
+tensorflow
+keras
+
+# Explainability
+shap
+
+# Streaming (optional)
+kafka-python
+
+# Utils/tools
+tqdm
+joblib
+
+# Tests
+pytest
+
